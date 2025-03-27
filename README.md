@@ -7,14 +7,7 @@
   </picture>
 </a>
 
-# U3D
-[![android](https://github.com/u3d-community/U3D/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/u3d-community/U3D/actions/workflows/android.yml)
-[![ios](https://github.com/u3d-community/U3D/actions/workflows/ios.yml/badge.svg?branch=master)](https://github.com/u3d-community/U3D/actions/workflows/ios.yml)
-[![linux](https://github.com/u3d-community/U3D/actions/workflows/linux.yml/badge.svg?branch=master)](https://github.com/u3d-community/U3D/actions/workflows/linux.yml)
-[![macos](https://github.com/u3d-community/U3D/actions/workflows/macos.yml/badge.svg?branch=master)](https://github.com/u3d-community/U3D/actions/workflows/macos.yml)
-[![windows](https://github.com/u3d-community/U3D/actions/workflows/windows.yml/badge.svg?branch=master)](https://github.com/u3d-community/U3D/actions/workflows/windows.yml)
-![GitHub](https://img.shields.io/github/license/u3d-community/U3D)
-[![Discord](https://img.shields.io/discord/1044444861992026192)](https://discord.gg/httHCqcXGx)
+# U3D-GalaxianMatch - Fork of U3D for GalaxianMatch game (more advanced features like character mapping)
 </div>
 
 **U3D** is a open source, lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Forked from [Urho3D](https://web.archive.org/web/20170406232054/https://urho3d.github.io/) and greatly inspired by OGRE and Horde3D.
