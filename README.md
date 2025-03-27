@@ -7,7 +7,12 @@
   </picture>
 </a>
 
-# U3D-GalaxianMatch - Fork of U3D for GalaxianMatch game (more advanced features like character mapping)
+# U3D-GalaxianMatch - Fork of U3D for GalaxianMatch game (Urho2D removed)
+GalaxianMatch use a customized Urho2D including some advanced features :
+- **Spriter CharacterMapping** (used for bosses),
+- **Multi-textures** AnimatedSprite2D (used in cinematic),
+- Scene Animation 2D (not used),
+- UI AnimatedSprite (used in Tutorial Companion) ...
 </div>
 
 **U3D** is a open source, lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Forked from [Urho3D](https://web.archive.org/web/20170406232054/https://urho3d.github.io/) and greatly inspired by OGRE and Horde3D.
